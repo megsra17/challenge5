@@ -7,11 +7,11 @@
 // THEN the text for that event is saved in local storage
 // WHEN I refresh the page
 // THEN the saved events persist
-var timeDisplay = $('#time-display')
+var timeDisplay = $('#currentDay')
 var day = moment().format('dddd, MMMM Do');
 timeDisplay.text(day);
 
 
 function pastPresentFuture(){
-    
+
 }
