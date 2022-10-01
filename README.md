@@ -23,4 +23,4 @@ HTML CSS JavaScript
 ![This is an image of my project](https://github.com/megsra17/challenge5/blob/main/Assets/Screen%20Shot%202022-09-30%20at%208.58.52%20PM.png)
 
 ## Url Link
-[Challange 4](https://megsra17.github.io/challenge5/)
+[Challange 5](https://megsra17.github.io/challenge5/)
